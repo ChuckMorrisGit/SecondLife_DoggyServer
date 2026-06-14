@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config
+END
+Settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/Settings.xml
+END
+GenderSubstitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/GenderSubstitutions.xml
+END
+PersonSubstitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/PersonSubstitutions.xml
+END
+Person2Substitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/Person2Substitutions.xml
+END
+DefaultPredicates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/DefaultPredicates.xml
+END
+Splitters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/Splitters.xml
+END
+Substitutions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/502/trunk/plugins/Radegast.Plugin.Alice/aiml_config/Substitutions.xml
+END

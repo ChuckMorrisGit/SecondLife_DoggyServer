@@ -1,0 +1,1002 @@
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\log4net.dll
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverseTypes.xml
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverse.xml
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\bin\Release\OpenMetaverse.StructuredData.xml
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\md\AppData\Local\Temporary Projects\DoggyServer\obj\Release\DoggyServer.pdb
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\log4net.dll
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.xml
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.xml
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.xml
+I:\Visual Studio 2008\Projects\DoggyServer\DoggyServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\convert2jpg.exe
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.exe
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Utilities.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\convert2jpg.pdb
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.pdb
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.xml
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.xml
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Utilities.xml
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.xml
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.XmlSerializers.dll
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\md\Documents\My Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\convert2jpg.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\convert2jpg.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\GetLyrics.XmlSerializers.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.csprojResolveAssemblyReference.cache
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.Cache
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csprojResolveAssemblyReference.cache
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.Cache
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csprojResolveAssemblyReference.cache
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.Cache
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csprojResolveAssemblyReference.cache
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.Cache
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csprojAssemblyReference.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CoreCompileInputs.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySql.Data.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe.config
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.exe.config
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\getCloudRootFolder.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.AssemblyReference.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\AIMLbot.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.Rendering.Meshmerizer.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.IO.Pipelines.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Json.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe.config
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.IO.Pipelines.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Json.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyServer\obj\Release\DoggySer.F39DA403.Up2Date
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\DefaultPredicates.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\GenderSubstitutions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Person2Substitutions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\PersonSubstitutions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Settings.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Splitters.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml_config\Substitutions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\attentionsN.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lad.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skeleton.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\genepool.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\AI.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Atomic.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Biography.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Bot.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Botmaster.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Client.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Computers.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\CustomTagTest.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Default.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Emotion.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Food.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Geography.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\History.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Inquiry.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Interjection.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\IU.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Knowledge.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Literature.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Money.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Movies.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Music.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Philosophy.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Pickup.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Predicates.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reduce.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Reductions.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Salutations.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Science.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stack.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\Stories.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\aiml\That.aiml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eyelashes.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_eye_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_2.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_3.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_4.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_hair_5.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_2.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_3.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_head_4.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_2.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_3.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_lower_body_4.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_2.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_3.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_skirt_4.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_1.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_2.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_3.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\character\avatar_upper_body_4.llm
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe.manifest
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.application
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyServer.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Primitives.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.IO.Pipelines.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Encodings.Web.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Json.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\log4net.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\XMLRPC.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\SmartThreadPool.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\zlib.net.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\PrimMesher.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoggyMCP.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\DoogyCommands.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\FreeImageNET.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\M2Mqtt.Net.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\Microsoft.Extensions.Primitives.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\MySqlConnector.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Buffers.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.IO.Pipelines.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Memory.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Numerics.Vectors.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Encodings.Web.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Text.Json.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\System.Threading.Tasks.Extensions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\bin\Release\TargaImage.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.AssemblyReference.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.Properties.Resources.resources
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.GenerateResource.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.csproj.CoreCompileInputs.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe.manifest
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.application
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggySer.F39DA403.Up2Date
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyServer\obj\Release\DoggyServer.pdb

@@ -1,0 +1,272 @@
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csprojResolveAssemblyReference.cache
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.Cache
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\md\Dropbox\Visual Studio\Projects\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csprojResolveAssemblyReference.cache
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.Cache
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\md\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csprojResolveAssemblyReference.cache
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.Cache
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\Maurice\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csprojResolveAssemblyReference.cache
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.Cache
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.config
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\log4net.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\XMLRPC.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\Dropbox\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\zlib.net.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.config
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.StructuredData.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\log4net.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\XMLRPC.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\SmartThreadPool.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\zlib.net.dll
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe.config
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csprojAssemblyReference.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CoreCompileInputs.cache
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CopyComplete
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+\\PHOENIX\Clouds\NextCloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\log4net.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\XMLRPC.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\zlib.net.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe.config
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\mauri\OneDrive\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.config
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.config
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverseTypes.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.StructuredData.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\log4net.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\XMLRPC.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\SmartThreadPool.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\zlib.net.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe.config
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.AssemblyReference.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyCli.E372044E.Up2Date
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.IO.Pipelines.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Json.dll
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.IO.Pipelines.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\mauri\Nextcloud\Visual Studio\Projects\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Json.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe.manifest
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.application
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyClient.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Primitives.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.IO.Pipelines.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Encodings.Web.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Json.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\OpenMetaverse.StructuredData.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\log4net.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\XMLRPC.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\SmartThreadPool.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\zlib.net.dll
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.pdb
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\DoggyMCP.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\Microsoft.Extensions.Primitives.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\MySqlConnector.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Buffers.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.IO.Pipelines.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Memory.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Numerics.Vectors.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Encodings.Web.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Text.Json.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\bin\Release\System.Threading.Tasks.Extensions.xml
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.AssemblyReference.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.config
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm_Sub.ControlForm.resources
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.MainForm.resources
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.Properties.Resources.resources
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.GenerateResource.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.csproj.CoreCompileInputs.cache
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe.manifest
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.application
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyCli.E372044E.Up2Date
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.exe
+\\192.168.2.10\backup\Projects-Backup\Second Life\DoggyServer\DoggyClient\obj\x86\Release\DoggyClient.pdb

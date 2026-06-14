@@ -1,0 +1,13 @@
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/obj/x86/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/DoggyMCP.exe.config
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/DoggyMCP.exe.mdb
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/DoggyMCP.exe
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/obj/x86/Debug/DoggyMCP.exe
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/obj/x86/Debug/DoggyMCP.exe.mdb
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/OpenMetaverse.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/OpenMetaverseTypes.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/OpenMetaverse.StructuredData.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/log4net.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/XMLRPC.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/SmartThreadPool.dll
+/srv/shares/Clouds/Dropbox/Visual Studio/Projects/Second Life/DoggyServer/DoggyMCP/bin/Debug/zlib.net.dll

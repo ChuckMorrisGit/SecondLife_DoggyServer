@@ -1,0 +1,4 @@
+* text=auto
+*.aiml text eol=lf
+*.xml text eol=lf
+*.txt text eol=lf

@@ -1,0 +1,694 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B315DB54-D6AA-4902-9530-66AC53F956E2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoggyServer</RootNamespace>
+    <AssemblyName>DoggyServer</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\md\Dropbox\Visual Studio\Releases\DoggyServer\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>DoggyServer.DoggyServer_main</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>93086FA08006440F0CF997961CE4C1845E8E5D82</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DoggyServer_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AIMLbot">
+      <HintPath>..\..\..\..\Libraries\SecondLife\AIMLbot.dll</HintPath>
+    </Reference>
+    <Reference Include="DoogyCommands">
+      <HintPath>..\..\DoggyEdit\DoogyCommands\bin\Release\DoogyCommands.dll</HintPath>
+    </Reference>
+    <Reference Include="FreeImageNET">
+      <HintPath>..\..\..\..\Libraries\FreeImage\FreeImageNET.dll</HintPath>
+    </Reference>
+    <Reference Include="getCloudRootFolder">
+      <HintPath>..\..\..\System\getCloudRootFolder\getCloudRootFolder\bin\Release\getCloudRootFolder.exe</HintPath>
+    </Reference>
+    <Reference Include="M2Mqtt.Net, Version=4.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\M2Mqtt.4.3.0.0\lib\net45\M2Mqtt.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=11.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.FileExtensions, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.FileExtensions.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Json.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.Configuration.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Abstractions.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Physical, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Physical.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileSystemGlobbing, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileSystemGlobbing.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=7.0.0.1, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.7.0.1\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=11.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.11.0.0-preview.4.26230.115\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.3.5\lib\net48\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverse, Version=0.0.0.35517, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Libraries\SecondLife\OpenMetaverse.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverse.Rendering.Meshmerizer">
+      <HintPath>..\..\..\..\Libraries\SecondLife\OpenMetaverse.Rendering.Meshmerizer.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverse.StructuredData">
+      <HintPath>..\..\..\..\Libraries\SecondLife\OpenMetaverse.StructuredData.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenMetaverseTypes">
+      <HintPath>..\..\..\..\Libraries\SecondLife\OpenMetaverseTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.6.1\lib\net462\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Pipelines, Version=11.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.11.0.0-preview.4.26230.115\lib\net462\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.6.3\lib\net462\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.1\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.1.2\lib\net462\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Text.Encodings.Web, Version=11.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.11.0.0-preview.4.26230.115\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.11.0.0-preview.4.26230.115\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.6.3\lib\net462\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TargaImage">
+      <HintPath>..\..\..\..\Libraries\TargaImage_src\bin\Release\TargaImage.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts.cs" />
+    <Compile Include="Animation_Sub\AO.cs" />
+    <Compile Include="Animation_Sub\Data.cs" />
+    <Compile Include="Animation_Sub\init.cs" />
+    <Compile Include="Animation_Sub\Play.cs" />
+    <Compile Include="Animation_Sub\RequestSit.cs" />
+    <Compile Include="Animation_Sub\Rip.cs" />
+    <Compile Include="Animation_Sub\Set.cs" />
+    <Compile Include="Animation_Sub\Typing.cs" />
+    <Compile Include="Appearance_Sub\Data.cs" />
+    <Compile Include="Appearance_Sub\init.cs" />
+    <Compile Include="Appearance_Sub\Manager.cs" />
+    <Compile Include="Appearance_Sub\Nude.cs" />
+    <Compile Include="Appearance_Sub\SetShape.cs" />
+    <Compile Include="Appearance_Sub\Shape.cs" />
+    <Compile Include="Appearance_Sub\WearAble.cs" />
+    <Compile Include="Asset_Sub\Ani.cs" />
+    <Compile Include="Asset_Sub\Image.cs" />
+    <Compile Include="Asset_Sub\init.cs" />
+    <Compile Include="Asset_Sub\Item.cs" />
+    <Compile Include="Asset_Sub\Mesh.cs" />
+    <Compile Include="Asset_Sub\Terrain.cs" />
+    <Compile Include="AvaData.cs" />
+    <Compile Include="Avatars_Sub\Appearance.cs" />
+    <Compile Include="Avatars_Sub\Avatar.cs" />
+    <Compile Include="Avatars_Sub\Friend.cs" />
+    <Compile Include="Avatars_Sub\Get.cs" />
+    <Compile Include="Avatars_Sub\init.cs" />
+    <Compile Include="Avatars_Sub\OnlineCheck.cs" />
+    <Compile Include="Avatars_Sub\OnSim.cs" />
+    <Compile Include="Avatars_Sub\Properties.cs" />
+    <Compile Include="Avatars_Sub\Search.cs" />
+    <Compile Include="Avatars_Sub\View.cs" />
+    <Compile Include="Backup_Sub\init.cs" />
+    <Compile Include="Backup_Sub\SubDir.cs" />
+    <Compile Include="Communication_Sub\Add.cs" />
+    <Compile Include="Communication_Sub\AIMLbot_sub\Alice.cs" />
+    <Compile Include="Communication_Sub\AO.cs" />
+    <Compile Include="Communication_Sub\Chat.cs" />
+    <Compile Include="Communication_Sub\ChatRespond.cs" />
+    <Compile Include="Communication_Sub\Email.cs" />
+    <Compile Include="Communication_Sub\From.cs" />
+    <Compile Include="Communication_Sub\Check.cs" />
+    <Compile Include="Communication_Sub\Go.cs" />
+    <Compile Include="Communication_Sub\Greeter.cs" />
+    <Compile Include="Communication_Sub\GroupIM.cs" />
+    <Compile Include="Communication_Sub\Help.cs" />
+    <Compile Include="Communication_Sub\IM.cs" />
+    <Compile Include="Communication_Sub\Init.cs" />
+    <Compile Include="Communication_Sub\Inventory.cs" />
+    <Compile Include="Communication_Sub\MasterChat.cs" />
+    <Compile Include="Communication_Sub\MQTT.cs" />
+    <Compile Include="Communication_Sub\Mute.cs" />
+    <Compile Include="Communication_Sub\MessageBox.cs" />
+    <Compile Include="Communication_Sub\Mute_Sub\AddKey.cs" />
+    <Compile Include="Communication_Sub\ObjectParser.cs" />
+    <Compile Include="Communication_Sub\Outfit.cs" />
+    <Compile Include="Communication_Sub\Parser.cs" />
+    <Compile Include="Communication_Sub\Play.cs" />
+    <Compile Include="Communication_Sub\Send.cs" />
+    <Compile Include="Communication_Sub\Set.cs" />
+    <Compile Include="Communication_Sub\Set_Sub\Evil.cs" />
+    <Compile Include="Communication_Sub\Spanker.cs" />
+    <Compile Include="Communication_Sub\Status.cs" />
+    <Compile Include="Communication_Sub\Titler.cs" />
+    <Compile Include="Communication_Sub\Try.cs" />
+    <Compile Include="Database_Sub\init.cs" />
+    <Compile Include="Communication_Sub\Mute_Sub\ReadMuteList.cs" />
+    <Compile Include="Database_Sub\Insert2Marketplace.cs" />
+    <Compile Include="Database_Sub\OpenSim.cs" />
+    <Compile Include="Database_Sub\ReadAccounts.cs" />
+    <Compile Include="Database_Sub\ReadInvitedGroup.cs" />
+    <Compile Include="Database_Sub\ReadMasters.cs" />
+    <Compile Include="Database_Sub\ReadOld.cs" />
+    <Compile Include="Database_Sub\ReadSims.cs" />
+    <Compile Include="Database_Sub\SaveInvitedGroups.cs" />
+    <Compile Include="Database_Sub\SQL.cs" />
+    <Compile Include="Database_Sub\Update.cs" />
+    <Compile Include="Database_Sub\UpdateProperties.cs" />
+    <Compile Include="Debug.cs" />
+    <Compile Include="DoggyServer_Multi.cs" />
+    <Compile Include="Friends_Sub\AddFriend.cs" />
+    <Compile Include="Friends_Sub\GetInvide.cs" />
+    <Compile Include="Friends_Sub\init.cs" />
+    <Compile Include="Friends_Sub\Online.cs" />
+    <Compile Include="Friends_Sub\Show.cs" />
+    <Compile Include="Grid_Sub\FindMaster.cs" />
+    <Compile Include="Group_Sub\Cache.cs" />
+    <Compile Include="Group_Sub\Daten.cs" />
+    <Compile Include="Group_Sub\GetInvide.cs" />
+    <Compile Include="Group_Sub\GroupMembers.cs" />
+    <Compile Include="Group_Sub\init.cs" />
+    <Compile Include="Group_Sub\Invide.cs" />
+    <Compile Include="Group_Sub\Join.cs" />
+    <Compile Include="Group_Sub\Notice.cs" />
+    <Compile Include="Group_Sub\OwnGroups.cs" />
+    <Compile Include="Group_Sub\Set.cs" />
+    <Compile Include="Group_Sub\Show.cs" />
+    <Compile Include="HUD_Sub\init.cs" />
+    <Compile Include="HUD_Sub\KoWanko.cs" />
+    <Compile Include="HUD_Sub\Meeroos.cs" />
+    <Compile Include="HUD_Sub\Scan.cs" />
+    <Compile Include="Inventory_Sub\Check.cs" />
+    <Compile Include="Inventory_Sub\Data.cs" />
+    <Compile Include="Inventory_Sub\Delete.cs" />
+    <Compile Include="Inventory_Sub\Dump.cs" />
+    <Compile Include="Inventory_Sub\Fetch.cs" />
+    <Compile Include="Inventory_Sub\Give.cs" />
+    <Compile Include="Inventory_Sub\init.cs" />
+    <Compile Include="Inventory_Sub\NormAppearance.cs" />
+    <Compile Include="Inventory_Sub\Offered.cs" />
+    <Compile Include="Inventory_Sub\Rake_Sub\Rake.cs" />
+    <Compile Include="Inventory_Sub\Rake_Sub\RakeObject.cs" />
+    <Compile Include="Inventory_Sub\Textures.cs" />
+    <Compile Include="LoginManager_Sub\Grids.cs" />
+    <Compile Include="LoginManager_Sub\Login.cs" />
+    <Compile Include="LoginManager_Sub\Logout.cs" />
+    <Compile Include="LoginManager_Sub\RunParameter.cs" />
+    <Compile Include="LSL_Sub\init.cs" />
+    <Compile Include="LSL_Sub\Requests\Control.cs" />
+    <Compile Include="LSL_Sub\Requests\Dialog.cs" />
+    <Compile Include="LSL_Sub\Requests\Question.cs" />
+    <Compile Include="Map_Sub\GridRegion.cs" />
+    <Compile Include="Map_Sub\init.cs" />
+    <Compile Include="Master.cs" />
+    <Compile Include="MCP_Sub\Command.cs" />
+    <Compile Include="MCP_Sub\init.cs" />
+    <Compile Include="MCP_Sub\Logs.cs" />
+    <Compile Include="MCP_Sub\Messages.cs" />
+    <Compile Include="MCP_Sub\Update.cs" />
+    <Compile Include="Media_sub\Daten.cs" />
+    <Compile Include="Media_sub\init.cs" />
+    <Compile Include="Media_sub\Lyrics.cs" />
+    <Compile Include="Media_sub\Metadata.cs" />
+    <Compile Include="Media_sub\Shoutcast.cs" />
+    <Compile Include="Movement_Sub\Autopilot\Check.cs" />
+    <Compile Include="Movement_Sub\Autopilot\Data.cs" />
+    <Compile Include="Movement_Sub\Autopilot\MoveData.cs" />
+    <Compile Include="Movement_Sub\Autopilot\Pilot.cs" />
+    <Compile Include="Movement_Sub\Autopilot\PosData.cs" />
+    <Compile Include="Movement_Sub\Collision.cs" />
+    <Compile Include="Movement_Sub\Follow.cs" />
+    <Compile Include="Movement_Sub\Goto.cs" />
+    <Compile Include="Movement_Sub\init.cs" />
+    <Compile Include="Movement_Sub\Move.cs" />
+    <Compile Include="Movement_Sub\NavMesh\init.cs" />
+    <Compile Include="Movement_Sub\Target\Data.cs" />
+    <Compile Include="Movement_Sub\Target\Go.cs" />
+    <Compile Include="Movement_Sub\Target\init.cs" />
+    <Compile Include="Movement_Sub\Sit.cs" />
+    <Compile Include="Movement_Sub\Stand.cs" />
+    <Compile Include="Avatars_Sub\NewAvatar.cs" />
+    <Compile Include="Movement_Sub\Target\Parse.cs" />
+    <Compile Include="ObjectManager_Sub\AvaLogger.cs" />
+    <Compile Include="ObjectManager_Sub\Copy\Data.cs" />
+    <Compile Include="ObjectManager_Sub\Copy\GetPrimSet.cs" />
+    <Compile Include="ObjectManager_Sub\Copy\LinkSet.cs" />
+    <Compile Include="ObjectManager_Sub\Copy\Rez.cs" />
+    <Compile Include="ObjectManager_Sub\Data.cs" />
+    <Compile Include="ObjectManager_Sub\FindObejct.cs" />
+    <Compile Include="ObjectManager_Sub\GridSearch.cs" />
+    <Compile Include="ObjectManager_Sub\init.cs" />
+    <Compile Include="ObjectManager_Sub\ObjectUpdate.cs" />
+    <Compile Include="ObjectManager_Sub\Prim.cs" />
+    <Compile Include="Opensim_Sub\AssetCheck.cs" />
+    <Compile Include="Output_sub\init.cs" />
+    <Compile Include="Output_sub\LogFile.cs" />
+    <Compile Include="Output_sub\Logs.cs" />
+    <Compile Include="Output_sub\MainScreen.cs" />
+    <Compile Include="DoggyServer_main.cs" />
+    <Compile Include="PID.cs" />
+    <Compile Include="Profile_Sub\init.cs" />
+    <Compile Include="Profile_Sub\SetAuswahl.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PublicSims.cs" />
+    <Compile Include="Scanner_Sub\Scan.cs" />
+    <Compile Include="SecretsManager.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SimData.cs" />
+    <Compile Include="Simulator_Sub\Forbit.cs" />
+    <Compile Include="Simulator_Sub\init.cs" />
+    <Compile Include="Simulator_Sub\Media_Sub\MediaData.cs" />
+    <Compile Include="Simulator_Sub\Media_Sub\MusicURL.cs" />
+    <Compile Include="Simulator_Sub\Parcel.cs" />
+    <Compile Include="Simulator_Sub\ParcelObjectOwner.cs" />
+    <Compile Include="Simulator_Sub\ParcelUpdate.cs" />
+    <Compile Include="Simulator_Sub\Reload.cs" />
+    <Compile Include="Simulator_Sub\Sim.cs" />
+    <Compile Include="Simulator_Sub\SimUpdate.cs" />
+    <Compile Include="Simulator_Sub\Terrain.cs" />
+    <Compile Include="Sound_Sub\init.cs" />
+    <Compile Include="Sound_Sub\Play.cs" />
+    <Compile Include="StartParams.cs" />
+    <Compile Include="Teleport_Sub\Home.cs" />
+    <Compile Include="ProgramTimer.cs" />
+    <Compile Include="Teleport_Sub\init.cs" />
+    <Compile Include="Teleport_Sub\Teleport.cs" />
+    <Compile Include="Teleport_Sub\TryTeleport.cs" />
+    <Compile Include="Time_Sub\Forbit.cs" />
+    <Compile Include="Variables_Sub\init.cs" />
+    <Compile Include="ViewerLogFile_Sub\init.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="aiml\AI.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Atomic.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Biography.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Bot.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Botmaster.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Client.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Computers.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\CustomTagTest.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Default.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Emotion.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Food.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Geography.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\History.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Inquiry.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Interjection.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\IU.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Knowledge.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Literature.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Money.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Movies.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Music.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Philosophy.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Pickup.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Predicates.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Reduce.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Reductions.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Salutations.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Science.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Stack.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\Stories.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="aiml\That.aiml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_eye.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_eyelashes.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_eye_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair_2.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair_3.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair_4.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_hair_5.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_head.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_head_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_head_2.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_head_3.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_head_4.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_lower_body.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_lower_body_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_lower_body_2.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_lower_body_3.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_lower_body_4.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_skirt.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_skirt_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_skirt_2.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_skirt_3.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_skirt_4.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_upper_body.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_upper_body_1.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_upper_body_2.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_upper_body_3.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="character\avatar_upper_body_4.llm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="DoggyServer_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\libopenjpeg-dotnet-2.1.3.0-dotnet-1-i686.so" />
+    <None Include="Resources\libopenjpeg-dotnet-2.1.3.0-dotnet-1-x86_64.so" />
+    <None Include="Resources\OpenMetaverse.dll.config" />
+    <None Include="secrets.json" />
+    <None Include="secrets.json_EXAMPLE" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Communication_Sub\Check_Sub\" />
+    <Folder Include="Inventory_Sub\Upload_Sub\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openjpeg-dotnet.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openjpeg-dotnet-x86_64.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aiml_config\DefaultPredicates.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\GenderSubstitutions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\Person2Substitutions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\PersonSubstitutions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\Settings.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\Splitters.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="aiml_config\Substitutions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="character\attentions.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="character\attentionsN.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="character\avatar_lad.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="character\avatar_skeleton.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="character\genepool.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DoggyMCP\DoggyMCP.csproj">
+      <Project>{DEF92A9F-1E39-41E3-A647-862DDC69ACB8}</Project>
+      <Name>DoggyMCP</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>rem copy *.* \\core\install\VisualStudio\DoggyServer\</PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets" Condition="Exists('..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Dieses Projekt verweist auf mindestens ein NuGet-Paket, das auf diesem Computer fehlt. Verwenden Sie die Wiederherstellung von NuGet-Paketen, um die fehlenden Dateien herunterzuladen. Weitere Informationen finden Sie unter "http://go.microsoft.com/fwlink/?LinkID=322105". Die fehlende Datei ist "{0}".</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.ValueTuple.4.6.2\build\net471\System.ValueTuple.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

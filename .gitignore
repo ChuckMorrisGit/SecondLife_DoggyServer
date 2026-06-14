@@ -1,0 +1,119 @@
+# ==========================================
+# 1. Lokale Geheimnisse & Konfigurationen
+# ==========================================
+secrets.config
+secrets.*.config
+secrets.json
+
+# ==========================================
+# 2. Nextcloud & Synchronisation
+# ==========================================
+[Nn]extcloud/
+.sync/
+.~*
+~$*
+*.~lock.*
+
+# ==========================================
+# 3. Log- & temporäre Dateien
+# ==========================================
+*.log
+*.cache
+*.tmp
+*.temp
+
+# ==========================================
+# 4. Betriebssysteme (OS)
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ==========================================
+# 5. IDEs & Editoren
+# ==========================================
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# ==========================================
+# 6. Build-Ausgaben & Abhängigkeiten (.NET)
+# ==========================================
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+publish/
+AppPackages/
+
+# NuGet
+packages/
+!packages/repositories.config
+
+# ==========================================
+# 7. Test- & Analyse-Dateien
+# ==========================================
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+*.coveragexml
+
+# ==========================================
+# 8. C++ / Native Artefakte
+# ==========================================
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# ==========================================
+# 9. Tools & Hilfsverzeichnisse
+# ==========================================
+tools/
+
+# ==========================================
+# 10. Sonstiges
+# ==========================================
+*.dbmdl
+*.publishsettings
+*.azurePubxml
+*.Cache
+ClientBin/
+Generated_Code/
+Backup*/
+_UpgradeReport_Files/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# NCrunch
+_NCrunch*
