@@ -60,6 +60,7 @@ This is a Visual Studio project. To compile:
 2. Restore NuGet packages
 3. Build the solution (Note: Some dependencies use preview versions)
 4. Configure `secrets.json` with required credentials (see `secrets.json_EXAMPLE`)
+5. Mayby use init_database.sql for creating Databases/Tables. Not testet!!!!
 
 ## Security and Compliance Notes
 
